@@ -51,5 +51,15 @@ GUI Ubuntu containers are faster and more resource-efficient than full virtual m
 *Installation*
 
 1. bulid the docker file
-2. run the the vnstart sh file
-3. make sure you have tigervnc etc..
+```bash
+docker build -t Dockerfile .
+```
+   
+3. run the the vnstart sh file
+```bash
+sudo vnc_startup.sh
+```
+   
+5. make sure you have tigervnc etc..
+
+6. have fun!!
