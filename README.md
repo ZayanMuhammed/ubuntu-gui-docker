@@ -52,10 +52,6 @@ VNC Password: Modify the vnc_startup.sh script to set a custom password.
 
 Desktop Environment: Customize the Dockerfile to install different desktop environments or applications.
 
-📄 License
-
-Distributed under the MIT License. See LICENSE for more information.
-
 >[!CAUTION]
 >This setup is intended for development and testing purposes only. For production environments, consider using more robust solutions.
 
